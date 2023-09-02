@@ -1,0 +1,82 @@
+.main{
+    
+    background-color: rgb(52, 36, 36);
+    border: 1px solid rgb(79, 48, 48);
+    border-radius: 10px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50); 
+    margin-top: 100px;
+    
+
+}
+.feast{
+    text-align: center;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50);
+}
+#qq{
+    color: rgb(153, 147, 92);
+}
+.secend{
+    margin-left: 400px;
+    display: flex;
+}
+.nab{
+    width: 150px;
+    margin-right: 25px;
+    color: antiquewhite;
+    border: 1px solid rgb(116, 75, 75);
+    border-radius: 5px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50); 
+}
+#aa{
+    color: rgb(153, 147, 92);
+}
+.nac{
+    width: 150px;
+    margin-right: 25px;
+    color: antiquewhite;
+    border: 1px solid rgb(116, 75, 75);
+    border-radius: 5px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50);
+}
+#bb{
+    color: rgb(153, 147, 92);
+}
+.nad{
+    width: 150px;
+    margin-right: 25px;
+    color: antiquewhite;
+    border: 1px solid rgb(116, 75, 75);
+    border-radius: 5px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50);
+}
+#cc{
+    color: rgb(153, 147, 92);
+}
+.three{
+    margin-left: 485px;
+    display: flex;
+}
+.nae{
+    width: 150px;
+    margin-right: 25px;
+   margin-top: 20px;
+    color: antiquewhite;
+    border: 1px solid rgb(116, 75, 75);
+    border-radius: 5px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50); 
+}
+#dd{
+    color: rgb(153, 147, 92);
+}
+.naf{
+    width: 150px;
+    margin-right: 25px;
+    margin-top: 20px;
+    color: antiquewhite;
+    border: 1px solid rgb(116, 75, 75);
+    border-radius: 5px;
+    box-shadow:5px 5px 5px  rgb(70, 50, 50);
+}
+#ee{
+    color: rgb(153, 147, 92);
+}
